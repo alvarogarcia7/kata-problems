@@ -16,6 +16,8 @@ A visual representation:
 
 ![from wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
 
+(Source is [Wikimedia Commons, Sieve_of_Eratosthenes_animation](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif))
+
 ## Problem description
 
 Create a program that is able to calculate all the prime numbers up to a higher bound.
