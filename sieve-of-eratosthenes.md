@@ -12,7 +12,9 @@
 
 ## Description of the algorithm
 
-A visual representation: ![from wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
+A visual representation:
+
+![from wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif)
 
 ## Problem description
 
