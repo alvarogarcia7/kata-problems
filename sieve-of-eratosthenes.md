@@ -36,3 +36,8 @@ Calculate the algorithmic cost of the program in [Big O Notation](https://en.wik
 eratosthenes 5: 2, 3, 5
 eratosthenes 10: 2, 3, 5, 7
 ```
+
+## Sources 
+
+  * Wikimedia Commons, Sieve_of_Eratosthenes_animation: https://upload.wikimedia.org/wikipedia/commons/b/b9/Sieve_of_Eratosthenes_animation.gif
+  * Sieve of Eratosthenes https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
